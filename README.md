@@ -11,7 +11,7 @@ Instructions:
   ```
 4. Run the [wiki-disambiguator.py](./wiki-disambiguator.py) script as:
   ```bash
-  python TEXT LANGUAGE_CODE
+  python wiki-disambiguator.py TEXT LANGUAGE_CODE
   ```
   as an example:
   ```bash
