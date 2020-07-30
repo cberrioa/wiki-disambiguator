@@ -1,5 +1,5 @@
 # wiki-disambiguator
-Python script that uses [expert.ai](https://expert.ai) API to disambiguate text and generate an HTML with Wikipedia links
+Python script that uses [expert.ai NL API](https://developer.expert.ai/ui) to disambiguate text and generate an HTML with Wikipedia links
 
 Instructions:
 1. Install [nlapi-python](https://github.com/therealexpertai/nlapi-python)
